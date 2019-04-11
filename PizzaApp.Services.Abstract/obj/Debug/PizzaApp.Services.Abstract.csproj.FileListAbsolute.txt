@@ -1,0 +1,17 @@
+C:\Users\БейсеноваД.CORP.000\source\repos\PizzaApp\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\PizzaApp\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\БейсеноваД.CORP.000\source\repos\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csprojAssemblyReference.cache
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\Асанали\Desktop\PizzaApp\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\Асанали\Desktop\PizzaApp\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\Асанали\Desktop\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csprojAssemblyReference.cache
+C:\Users\Асанали\Desktop\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\Desktop\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\Асанали\Desktop\PizzaApp\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.pdb

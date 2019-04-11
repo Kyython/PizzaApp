@@ -1,0 +1,12 @@
+C:\Users\ww\source\repos\PizzaApp\PizzaApp\PizzaApp.DataAccess.Abstract\bin\Debug\PizzaApp.DataAccess.Abstract.dll
+C:\Users\ww\source\repos\PizzaApp\PizzaApp\PizzaApp.DataAccess.Abstract\bin\Debug\PizzaApp.DataAccess.Abstract.pdb
+C:\Users\ww\source\repos\PizzaApp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\PizzaApp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\PizzaApp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.dll
+C:\Users\ww\source\repos\PizzaApp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.pdb
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.DataAccess.Abstract\bin\Debug\PizzaApp.DataAccess.Abstract.dll
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.DataAccess.Abstract\bin\Debug\PizzaApp.DataAccess.Abstract.pdb
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.dll
+C:\Users\Асанали\Desktop\PizzaAppp\PizzaApp\PizzaApp.DataAccess.Abstract\obj\Debug\PizzaApp.DataAccess.Abstract.pdb
